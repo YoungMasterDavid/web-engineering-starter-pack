@@ -23,7 +23,11 @@ body {
     line-height: 1.5;
   }
   
-  span {
+  .blue-underline {
     text-decoration: underline;
     color: blue
+  }
+
+  .underline {
+    text-decoration: underline;
   }
