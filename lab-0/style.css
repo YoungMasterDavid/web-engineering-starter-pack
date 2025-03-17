@@ -31,3 +31,11 @@ body {
   .underline {
     text-decoration: underline;
   }
+
+  .indented {
+    margin-left: 2em;
+  }
+
+  .italicized {
+    font-style: italic;
+  }
